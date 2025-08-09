@@ -1,12 +1,24 @@
 # MadLibs Game Made By Python
 
-a MadLibs game made of python, it takes some words and numbers from the user
-and give a funny text as output that looks funny and weird for the reader, and 
-all that using the fundamentals of python programming language.
+a MadLibs game made of python, it takes the entred words and fill blanks in a particular story,
+without the user know its usage, and then a hilarious and funny story comes out as output.
+
+## NEW Version Have Released (MadLibs 1.0.01v)
+
+Forget the old terminal, and that one repeating story, and that old error handling
+NOW, You have a GUI made using tkinter and +6 Stories to choose from, and more comfortability than before
 
 ## Steps to run this script
-1. make sure you downloaded python3
-2. clone the project or download the script or copy it
-3. enter the inputs and watch the magic happen
+1. Make Sure You're Using Python3
+2. Clone the Project by this command :
+   
+`git clone https://github.com/ImineAmazigh/MadLibs.git MadLibs`
+3. Install requirement.txt using the following command :
+   
+`pip install -r requirements.txt`
 
-:)
+Or install Tkinter Directly :
+
+`pip install tkinter`
+
+And We're Done :)
